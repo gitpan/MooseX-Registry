@@ -13,11 +13,11 @@ MooseX::Registry::Role - The role for MooseX::Registry.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 $VERSION = eval $VERSION;
 

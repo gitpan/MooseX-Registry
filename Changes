@@ -1,5 +1,7 @@
 Revision history for MooseX-Registry
 
+0.02    27 April 2012 - Remove incorrectly included lib
+
 0.01    27 April 2012 - First version
 
 
